@@ -1,0 +1,33 @@
+{
+  "name": "intro-midu",
+  "version": "1.0.0",
+  "description": "el mejor curso de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonnyquintero/midu-course-node.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "course"
+  ],
+  "author": "tonny187",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonnyquintero/midu-course-node/issues"
+  },
+  "homepage": "https://github.com/tonnyquintero/midu-course-node#readme",
+  "dependencies": {
+    "picocolors": "1.1.1"
+  },
+  "devDependencies": {
+    "standard": "17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
